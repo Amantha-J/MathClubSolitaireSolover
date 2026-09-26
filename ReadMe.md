@@ -5,7 +5,7 @@ pattern and then displays info about the given input.
 ## Usage:
 From the command line: 
 
-compile using java Solitaire.java 
+compile using javac Solitaire.java 
 
 java Solitaire # \<mode>
 
