@@ -10,7 +10,7 @@ compile using java Solitaire.java
 java Solitaire # \<mode>
 
 #: Integer program input. \
-Any collection of space separated integer values will work. \
+Any collection of space separated integer values will work. 
 
 mode: Optional parameter \
 -c will only print the cycle and not \
