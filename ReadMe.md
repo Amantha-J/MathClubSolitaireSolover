@@ -13,8 +13,8 @@ java Solitaire # \<mode>
 Any collection of space separated integer values will work. 
 
 mode: Optional parameter \
--c will only print the cycle and not \
+"-c" will only print the cycle and not \
 the steps taken to get there. \
--i will only print the information about the cycle. 
+"-i" will only print the information about the cycle. 
 
 
