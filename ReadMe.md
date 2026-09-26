@@ -3,7 +3,7 @@ From an input array of integers outputs the solitaire steps to reach a stable
 pattern and then displays info about the given input.
 
 ## Usage:
-From the command line: \
+From the command line: 
 
 compile using java Solitaire.java 
 
